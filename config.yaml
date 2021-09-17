@@ -4,7 +4,7 @@ auth:
     password: PASSWORD
 images:
   k8s.gcr.io/sig-storage/csi-attacher: willdockerhub/csi-attacher
-  k8s.gcr.io/ingress-nginx/controller:v1.0.0:registry.cn-hangzhou.aliyuncs.com/huowolf/ingress-nginx-controller:v1.0.0
+  k8s.gcr.io/ingress-nginx/controller:v1.0.0: registry.cn-hangzhou.aliyuncs.com/huowolf/ingress-nginx-controller:v1.0.0
   
   
   
